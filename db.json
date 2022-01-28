@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "juliocezar.marketing@gmail.com",
+      "password": "$2a$10$tZYS2a8AAZjRe4AUBcwCvOcz1awsMDFKVWiUloNJgu.cSbLCDe.bW",
+      "name": "Julio Pereira",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584_960_720.png",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16,
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18,
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png",
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "name": "Fanta",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png",
+      "userId": 1
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "urlImg": "https://i.ibb.co/fpVHnZL/hamburguer.png",
+      "qtd": 5,
+      "userId": 1
+    }
+  ]
+}
