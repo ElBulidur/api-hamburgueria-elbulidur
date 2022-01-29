@@ -58,15 +58,5 @@
       "userId": 1
     }
   ],
-  "carts": [
-    {
-      "id": 1,
-      "name": "Hamburguer",
-      "category": "Sanduíches",
-      "price": 14,
-      "urlImg": "https://i.ibb.co/fpVHnZL/hamburguer.png",
-      "qtd": 5,
-      "userId": 1
-    }
-  ]
+  "carts": []
 }

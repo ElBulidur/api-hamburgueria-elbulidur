@@ -222,7 +222,7 @@ Bearer Token
 
 Retorno
 
-[
+[<br>
 {
 "id": 1,
 "name": "Hamburguer",
