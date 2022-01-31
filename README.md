@@ -153,7 +153,7 @@ Content-Type: application/json
 
 ============================================================
 
-<h2 style="font-weight:bold; color:yellow"> => RECURSOS PARA </h2>USUÁRIOS
+<h2 style="font-weight:bold; color:yellow"> => RECURSOS PARA USUÁRIOS</h2>
 
 Recursos para usuários:
 
@@ -387,7 +387,7 @@ Bearer Token
 
 <span style="color:greenyellow">Status: 200 OK</sspan>
 
-<h2 style="font-weight:bold; color:orange">3 – Filtros</h2>
+<h2 style="font-weight:bold; color:orange">Filtros</h2>
 
 Para executar filtros é bem simples, você só precisa usar o nome das propriedades do objeto que você quer pesquisar.
 No exemplo abaixo estou pesquisando por produtos que o nome é “X-Búrguer”
