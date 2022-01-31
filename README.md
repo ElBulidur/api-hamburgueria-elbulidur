@@ -217,7 +217,7 @@ Content-Type: application/json
 
 =======================================================
 
-<h2 style="font-weight:bold; color:greenyellow"> => RECURSOS PARA CARRINHO <h2>
+<h2 style="font-weight:bold; color:greenyellow"> => RECURSOS PARA CARRINHO </h2>
 
 Recursos para o carrinho de compras:
 
