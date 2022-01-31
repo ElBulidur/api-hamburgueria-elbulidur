@@ -6,6 +6,13 @@
       "name": "Julio Pereira",
       "avatarUrl": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584_960_720.png",
       "id": 1
+    },
+    {
+      "email": "julio@email.com",
+      "password": "$2a$10$TemK88sanLuIztKqTzqeYOZbnX6Yr2qkvV4.KUFNuscZJZ/Sv6yKC",
+      "name": "JULIO PEREIRA",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584_960_720.png",
+      "id": 2
     }
   ],
   "products": [
@@ -35,6 +42,14 @@
     },
     {
       "id": 4,
+      "name": "Combo Kenzie",
+      "category": "Combos",
+      "price": 26,
+      "img": "https://cantinatiobento.com.br/wp-content/uploads/2020/12/CHEESEBURGERCOCA-1.png",
+      "userId": 1
+    },
+    {
+      "id": 5,
       "name": "Fanta Guaraná",
       "category": "Bebidas",
       "price": 5,
@@ -42,7 +57,7 @@
       "userId": 1
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Coca",
       "category": "Bebidas",
       "price": 4.99,
@@ -50,11 +65,19 @@
       "userId": 1
     },
     {
-      "id": 6,
-      "name": "Fanta",
-      "category": "Bebidas",
-      "price": 4.99,
+      "id": 7,
+      "name": "McShake Ovomaltine",
+      "category": "Sobremesas",
+      "price": 10,
       "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "name": "McShake Ovomaltine",
+      "category": "Sobremesas",
+      "price": 10,
+      "img": "http://s2.glbimg.com/ICoREYf5qoOiFkGmxnCVJBlEqf0=/620x500/s2.glbimg.com/t2SngMVdFNPzWZxsABxUkGYopLw=/s.glbimg.com/jo/g1/f/original/2016/09/13/milk.jpg",
       "userId": 1
     }
   ],
